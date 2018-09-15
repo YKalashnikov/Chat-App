@@ -1,4 +1,4 @@
-<img src="https://github.com/YKalashnikov/Chat-Room-App/blob/master/Desktop/chat-app/chat room.gif"/>
+<img src="https://github.com/YKalashnikov/Chat-App/blob/master/Desktop/chat-app/chat room.gif"/>
 
 <h1 align="center">What is it?</h1>
 
